@@ -1,0 +1,42 @@
+[
+    {
+        "thumbnail": "/Jammin.png",
+        "title": "Jammmin Playlist Creator",
+        "link": {
+            "label": "Jammmin",
+            "url": "https://corhilsen.github.io"
+        },
+        "description": "A web-based app that allows you to login to you Spotify account, grant the required permissions, and edit pre-existing playlists on your account or create new playlists. Utilizing the spotify api your able to search for any band, album, or song and add it to any playlist you want and even save it back to your actual spotify account.",
+        "languageIcons": ["/css_icon.png", "html_icon.png", "js_icon.png", "react_icon.png"]
+    },
+    {
+        "thumbnail": "/game.png",
+        "title": "Who Said That Quote?",
+        "link": {
+            "label": "Who Said That Quote? Trivia Game",
+            "url": "[PLACEHOLDER]"
+        },
+        "description": "Browser based multiple choice trivia game that tests your knowledge of famous quotes and who said them.",
+        "languageIcons": ["/css_icon.png", "html_icon.png", "js_icon.png"]
+    },
+    {
+        "thumbnail": "/film_finder.png",
+        "title": "Film Finder",
+        "link": {
+            "label": "Film Finder",
+            "url": "https://www.example.com"
+        },
+        "description": "Developed a film search engine using IMDB's API, allowing users to search for movies, filter by genre, and view detailed information about the selected films.",
+        "languageIcons": ["/css_icon.png", "html_icon.png", "js_icon.png"]
+    },
+    {
+        "thumbnail": "/future_project.png",
+        "title": "Future Project",
+        "link": {
+            "label": "Future Project",
+            "url": "https://www.example.com"
+        },
+        "description": "[PLACEHOLDER FOR A FUTURE PROJECT ILL DEVELOP]",
+        "languageIcons": ["/css_icon.png", "html_icon.png", "js_icon.png"]
+    }
+]

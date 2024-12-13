@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Linux Bash",
+        "icon": "/linux_icon.png"
+    },
+    {
+        "name": "TypeScript",
+        "icon": "/ts_icon.png"
+    },
+    {
+        "name": "NodeJS",
+        "icon": "/nodejs_icon.png"
+    },
+    {
+        "name": "Python",
+        "icon": "/python_icon.png"
+    },
+    {
+        "name": "CSS",
+        "icon": "/css_icon.png"
+    },
+    {
+        "name": "Javascript",
+        "icon": "/js_icon.png"
+    },
+    {
+        "name": "HTML",
+        "icon": "/html_icon.png"
+    },
+    {
+        "name": "React JS",
+        "icon": "/react_icon.png"
+    }
+]

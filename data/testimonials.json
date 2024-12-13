@@ -1,0 +1,38 @@
+[
+    {
+        "image": "/aryan_test1.jpg",
+        "name": "Aryan G",
+        "role": "Instructor at CSULB",
+        "description": "What sets Corey apart is his willingness to assist others. Frequently, Corey would take time to patiently explain concepts to classmates who were struggling."
+    },
+    {
+        "image": "/jeremy_test2.jpg",
+        "name": "Jeremy Hudson",
+        "role": "Instructor at CSULB",
+        "description": "His approachable demeanor and ability to break down complex topics fostered an inclusive learning environment. Corey's commitment to mastering the material while ensuring his peers' understanding is truly commendable."
+    },
+    {
+        "image": "/test3.jpg",
+        "name": "Sam Miller",
+        "role": "Lead Software Engineer",
+        "description": "Corey's coding expertise and problem-solving abilities are second to none. Corey consistently delivers clean, efficient code, and approaches complex challenges with a creative mindset. Whether working independently or within a team"
+    },
+    {
+        "image": "/test4.jpg",
+        "name": "Emma Davis",
+        "role": "Senior Front-End Developer",
+        "description": "Corey is not only a team player but also takes initiative when faced with challenges, always striving to improve the project and the development process. It's been a pleasure collaborating with Corey, and I have no hesitation in recommending them for any software development role."
+    },
+    {
+        "image": "/test5.jpg",
+        "name": "Sarah Mitchell",
+        "role": "Software Developer",
+        "description": "Whether working on front-end features or back-end logic, he demonstrated exceptional problem-solving abilities and a deep understanding of modern programming languages."
+    },
+    {
+        "image": "/test6.jpg",
+        "name": "Michael Carr",
+        "role": "Tech Lead",
+        "description": "I was impressed by his ability to tackle both simple and complex coding tasks with ease. His expertise in JavaScript, Python, and databases helped us optimize several systems, significantly improving performance."
+    }
+]

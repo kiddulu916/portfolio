@@ -1,0 +1,23 @@
+[
+    {
+        "image": "/codecademy.jpg",
+        "school": "Codecademy",
+        "major": "Full Stack Development",
+        "description": "Learning full stack development skills ",
+        "dates": "Jan. 2024 - Present"
+    },
+    {
+        "image": "/htb.jpg",
+        "school": "HackTheBox Acedemy",
+        "major": "Penetration Testing/Offensive Security",
+        "description": "Certified Penetration Testing Specialist Job Role Path",
+        "dates": "Oct. 2023 - July. 2024"
+    },
+    {
+        "image": "/CSULB.png",
+        "school": "California State University of Long Beach",
+        "major": "Cyber Security",
+        "description": "Cyber Security Certificate prep course",
+        "dates": "Sept. 2023 - June. 2024"
+    }
+]

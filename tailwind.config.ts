@@ -10,12 +10,29 @@ export default {
   darkMode: "class",
   theme: {
     extend: {
+      backgroundImage: {
+        "gradient-radial":
+        "radial-gradient(var(--tw-gradient-stops))",
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
         primary: "var(--primary)",
-        Cardo: "var(--card)",
+        Card: "var(--card)",
       },
+      keyframes: {
+        scroll: {
+          "0%": {
+            transform: "translateX(-5.2%)",
+          },
+          "100%": {
+            transform: "translateX(-55.2%)",
+          },
+        },
+      },
+      animation: {
+        scroll: "scroll 25s linear infinite",
+      }
     },
   },
   plugins: [],
