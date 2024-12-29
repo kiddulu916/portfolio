@@ -4,7 +4,7 @@
         "title": "Jammmin Playlist Creator",
         "link": {
             "label": "Jammmin",
-            "url": "https://corhilsen.github.io"
+            "url": "https://jammin-playlist-editor.netlify.app/"
         },
         "description": "A web-based app that allows you to login to you Spotify account, grant the required permissions, and edit pre-existing playlists on your account or create new playlists. Utilizing the spotify api your able to search for any band, album, or song and add it to any playlist you want and even save it back to your actual spotify account.",
         "languageIcons": ["/css_icon.png", "html_icon.png", "js_icon.png", "react_icon.png"]
