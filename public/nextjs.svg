@@ -1,8 +1,8 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg height="1152" width="1152" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+<svg height="31.68" width="34.56" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
 <desc>CopyRight:SVG Design Editor;
-configurationStart;Unit=smInches;Dpi=96;Division=4;Grid=True;Zoom=1;CanvasW=1152;CanvasH=1152;configurationEnd;</desc>
-<g isVisble = "True" inkscape:label = "nextjs Default Layer" inkscape:groupmode = "layer" ><path style="fill:Black;stroke:none; stroke-width:1" d="m386.4,35.51c-169.34,-99.57 -384.51,22.04 -386.39,218.37c-1.83,191.72 201.06,315.55 370.02,231.16l-184.47,-271.41l0,168c0,18.61 -35.62,18.61 -35.62,0l0,-225.21c0,-14.78 27.45,-15.99 35.23,-3.14l210.26,317.3c157.95,-101.74 155.82,-338.14 -9.03,-435.06l0,0l0,0l0,-0.01l0,0zm-23.76,317.94l-35.73,-54.58l0,-149.41c0,-13.93 35.73,-13.93 35.73,0l0,203.99z" transform = "matrix(0.06053886,0,0,0.05852488,0.0114787,-0.9871349)" vector-effect="non-scaling-stroke" pen = "0.06054001,0.05852599" />
+configurationStart;Unit=smInches;Dpi=96;Division=4;Grid=True;Zoom=1;CanvasW=34.56;CanvasH=31.68;configurationEnd;</desc>
+<g isVisble = "True" inkscape:label = "nextjs Default Layer" inkscape:groupmode = "layer" ><path style="fill:Black;stroke:none; stroke-width:1" d="m386.4,35.51c-169.34,-99.57 -384.51,22.04 -386.39,218.37c-1.83,191.72 201.06,315.55 370.02,231.16l-184.47,-271.41l0,168c0,18.61 -35.62,18.61 -35.62,0l0,-225.21c0,-14.78 27.45,-15.99 35.23,-3.14l210.26,317.3c157.95,-101.74 155.82,-338.14 -9.03,-435.06l0,0l0,0l0,-0.01l0,0l0,0l0,0zm-23.76,317.94l-35.73,-54.58l0,-149.41c0,-13.93 35.73,-13.93 35.73,0l0,203.99z" transform = "matrix(0.06053886,0,0,0.05852488,0.0114787,-0.9871349)" vector-effect="non-scaling-stroke" pen = "0.06054001,0.05852599" />
 </g>
 </svg>
