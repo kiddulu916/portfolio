@@ -30,13 +30,13 @@
         "languageIcons": ["/css_icon.png", "html_icon.png", "js_icon.png"]
     },
     {
-        "thumbnail": "/future_project.png",
-        "title": "Future Project",
+        "thumbnail": "/cleaning_site.png",
+        "title": "Cleaning Business Website",
         "link": {
-            "label": "Future Project",
-            "url": "https://www.example.com"
+            "label": "Cleaning Business Website",
+            "url": "https://judys-cleaning-site.vercel.app/"
         },
-        "description": "[PLACEHOLDER FOR A FUTURE PROJECT ILL DEVELOP]",
+        "description": "Website for a friend of mines cleaning business, still waiting on sitting down with her to discuss the content of the site and properly hook up the contact form to her email but thought i can showcase the concept on my portfolio also. ",
         "languageIcons": ["/css_icon.png", "html_icon.png", "js_icon.png"]
     }
 ]
