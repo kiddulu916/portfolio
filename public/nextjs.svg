@@ -1,1 +1,8 @@
-<svg height="512" width="512" xmlns="http://www.w3.org/2000/svg"><path d="m386.3985596 35.5079727c-169.3385315-99.5687332-384.5140285 22.0419274-386.3862926 218.3738175-1.8282685 191.716507 201.0625916 315.5454712 370.0206604 231.1632233l-184.4725331-271.408722.0000305 167.9969177c0 18.6138916-35.6191101 18.6138916-35.6191101 0v-225.2124176c0-14.7758484 27.4472504-15.9884033 35.2252045-3.1443481l210.2631683 317.2959595c157.9509888-101.737259 155.8170166-338.1359864-9.0311279-435.0644303zm-23.7556153 317.9385605-35.7316284-54.5765381v-149.4116669c0-13.9324646 35.7316284-13.9324646 35.7316284 0z"/></svg>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg height="40.32" width="43.2" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape ="http://www.inkscape.org/namespaces/inkscape" >
+<desc>CopyRight:SVG Design Editor;
+configurationStart;Unit=smInches;Dpi=96;Division=4;Grid=True;Zoom=1;CanvasW=43.2;CanvasH=40.32;configurationEnd;</desc>
+<g isVisble = "True" inkscape:label = "nextjs Default Layer" inkscape:groupmode = "layer" ><path style="fill:Black;stroke:none; stroke-width:1" d="m386.4,35.51c-169.34,-99.57 -384.51,22.04 -386.39,218.37c-1.83,191.72 201.06,315.55 370.02,231.16l-184.47,-271.41l0,168c0,18.61 -35.62,18.61 -35.62,0l0,-225.21c0,-14.78 27.45,-15.99 35.23,-3.14l210.26,317.3c157.95,-101.74 155.82,-338.14 -9.03,-435.06l0,0l0,0zm-23.76,317.94l-35.73,-54.58l0,-149.41c0,-13.93 35.73,-13.93 35.73,0l0,203.99z" transform = "matrix(0.08078668,0,0,0.07809908,0.01127665,-0.987425)" vector-effect="non-scaling-stroke" pen = "0.08078813,0.0781005" />
+</g>
+</svg>
