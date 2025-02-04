@@ -13,7 +13,7 @@ const Projects = () => {
                 plainText="😎 Some of my"
                 highlightText="Best Works" 
             />
-            <div className="lg:w-full grid grid-cols-1 lg:grid-cols-2 gap-10">
+            <div className="lg:w-full grid grid-cols-1 lg:grid-cols-2  gap-10">
                 {
                     projects.map((project, id) => (
                         <Project 
@@ -22,7 +22,7 @@ const Projects = () => {
                             title={project.title}
                             link={project.link}
                             description={project.description}
-                            languageIcons={project.languageIcons} 
+                            languageIcons={project.languageIcons}
                         />
                     ))
                 }

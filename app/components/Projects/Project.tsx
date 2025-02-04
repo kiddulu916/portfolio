@@ -13,7 +13,7 @@ type Props = {
         label: string;
     };
     description: string;
-    languageIcons: string[]
+    languageIcons: string[];
 }
 
 const Project = ({
@@ -75,7 +75,7 @@ const Project = ({
                 />
                 <div className="flex flex-col gap-[11px]">
                     <div className="flex justify-between items-center">
-                        <h3 className="font-semibold text-xl md:text-[22px]">{title}</h3>
+                        <h3 className="font-semibold text-base md:text-[18px]">{title}</h3>
                         <a href={link.url} className="flex px-[5px] py-[3px] gap-1 bg-[#b9b9b9] bg-opacity-[24%] rounded text-[14px]">
                             <span className="hidden md:block">{link.label}</span>
                             <img src="/link_arrow.svg" alt="link arrow" className="block dark:hidden" />
