@@ -37,6 +37,6 @@
             "url": "https://judys-cleaning-site.vercel.app/"
         },
         "description": "Website for a friend of mines cleaning business, still waiting on sitting down with her to discuss the content of the site and properly hook up the contact form to her email but thought i can showcase the concept on my portfolio also. ",
-        "languageIcons": ["/css_icon.png", "html_icon.png", "js_icon.png"]
+        "languageIcons": ["/css_icon.png", "html_icon.png", "js_icon.png", "nextjs.svg]
     }
 ]
